@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jomol\\Downloads\\Secure-Contact-Management-System-ASP.NET-Core-main\\Secure-Contact-Management-System-ASP.NET-Core-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B0F625-0F25-4501-A4F3-1AA204E35681}|ContactManager.csproj|c:\\users\\jomol\\downloads\\secure-contact-management-system-asp.net-core-main\\secure-contact-management-system-asp.net-core-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B0F625-0F25-4501-A4F3-1AA204E35681}|ContactManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jomol\\Downloads\\Secure-Contact-Management-System-ASP.NET-Core-main\\Secure-Contact-Management-System-ASP.NET-Core-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jomol\\Downloads\\Secure-Contact-Management-System-ASP.NET-Core-main\\Secure-Contact-Management-System-ASP.NET-Core-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T19:09:06.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
